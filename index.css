@@ -1,0 +1,49 @@
+            body {
+                background-color: hsl(233, 47%, 7%);
+            }
+            
+            .main {
+                display: flex;
+                flex-direction: row;
+                width: 895px;
+                height: 400px;
+                background-color: hsl(244, 38%, 16%);
+                margin: 9% 7%;
+            }
+            
+            .text {
+                color: white;
+                padding: 50px;
+            }
+            
+            span {
+                color: hsl(277, 64%, 61%);
+            }
+            
+            .txt {
+                display: flex;
+                flex-direction: row;
+            }
+            
+            .text1 {
+                margin: 10px;
+                font-size: 15px;
+            }
+            
+            .text2 {
+                margin: 10px;
+                font-size: 15px;
+            }
+            
+            .text3 {
+                margin: 10px;
+                font-size: 15px;
+            }
+            
+            .image {
+                background-color: purple;
+            }
+            
+            .img {
+                opacity: 0.3;
+            }
